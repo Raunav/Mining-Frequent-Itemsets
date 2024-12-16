@@ -64,6 +64,6 @@ Implemented the **PCY algorithm** and compared it with Apriori for efficiency an
 - Apriori Algorithm and PCY Algorithm Theoretical Insights
 
 ---
-**Author:** Ronav Sharma  
+**Author:** Raunav Sharma  
 **Date:** November 12, 2023
 
